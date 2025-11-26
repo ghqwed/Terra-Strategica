@@ -1,0 +1,5 @@
+{
+  "name": "Terra Strategica: 地缘模拟",
+  "description": "基于Voronoi图的高保真宏大战略原型，可视化地形驱动机制、FIMS经济模型与兰切斯特战斗动力学。",
+  "requestFramePermissions": []
+}
